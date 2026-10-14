@@ -52,6 +52,7 @@ Navigate to the project directory and install dependencies:
 <br>
 Configure your Firebase project credentials (firebase_options.dart).
 <br>
+<br>
 Run the admin application:
 <br>
 &nbsp;&nbsp;Bash
